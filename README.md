@@ -22,13 +22,6 @@ Created new analytical fields:
 - is_family  
 - arrival_month_num  
 
-### 4. Exploratory Data Analysis
-Conducted univariate and bivariate analysis, including:
-- ADR distribution  
-- ADR by hotel type  
-- Booking patterns and guest behavior  
-- Seasonal trends and cancellation patterns  
-
 ### 5. Outputs
 A fully cleaned and structured dataset ready for further analysis, visualization, or dashboarding.
 
@@ -36,4 +29,3 @@ A fully cleaned and structured dataset ready for further analysis, visualization
 - Python  
 - Pandas  
 - NumPy  
-- Matplotlib  
